@@ -28,12 +28,12 @@ Requirements
 Usage
 -----
 
-1. SVN authentication credentials must be initialized as follows:
+SVN authentication credentials must be initialized as follows:
 
 	SVN.username = "a_username"
 	SVN.password = "a_password"
 
-2. File management can then be performed:
+File management can then be performed:
 
 	File.open("new_file.txt", 'w') { |file| file.write "This is a new file" }
 
