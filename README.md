@@ -1,8 +1,10 @@
-== SVN-ruby
+SVN-ruby
+========
 
 This is a lightweight wrapper written in Ruby for the Linux command line SVN interface. It allows basic interaction with an SVN repository, including adding, renaming, deleting, committing, diffing and checking the status of files.
 
-== Usage instructions
+Usage instructions
+------------------
 
 SVN authentication credentials must be initialized as follows:
 
